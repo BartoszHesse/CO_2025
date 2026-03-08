@@ -61,5 +61,3 @@ Both programs generate an output file `output_greedy.swf` or `output_sa.swf` res
 ```
 <job_id> <start_time> <finish_time> <proc_0> <proc_1> ... <proc_k>
 ```
-
-The programs also print the total makespan (maximum completion time) to standard error.
