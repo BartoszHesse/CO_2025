@@ -61,3 +61,6 @@ Both programs generate an output file `output_greedy.swf` or `output_sa.swf` res
 ```
 <job_id> <start_time> <finish_time> <proc_0> <proc_1> ... <proc_k>
 ```
+## Authors
+Bartosz Hesse (https://github.com/BartoszHesse)
+Marcin Słowikowski (https://github.com/MSZM0)
